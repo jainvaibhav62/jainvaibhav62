@@ -23,11 +23,9 @@ Data engineer based in Texas with a background in machine learning and statistic
 
 ## Currently Building
 
-<a href="https://github.com/jainvaibhav62/claudeforge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainvaibhav62&repo=claudeforge&theme=github_dark&border_color=30363d" />
-</a>
+### [claudeforge](https://github.com/jainvaibhav62/claudeforge) [![GitHub stars](https://img.shields.io/github/stars/jainvaibhav62/claudeforge?style=flat-square&color=58a6ff)](https://github.com/jainvaibhav62/claudeforge/stargazers) [![Last commit](https://img.shields.io/github/last-commit/jainvaibhav62/claudeforge?style=flat-square&color=58a6ff)](https://github.com/jainvaibhav62/claudeforge/commits)
 
-> **claudeforge** — Forge production-ready AI agent projects. Agents, slash commands, memory, CI/CD, and devcontainers in one command.
+> Forge production-ready AI agent projects — agents, slash commands, memory, CI/CD, and devcontainers in one command.
 
 ---
 
@@ -73,22 +71,36 @@ Data engineer based in Texas with a background in machine learning and statistic
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jainvaibhav62&show_icons=true&theme=github_dark&border_color=30363d&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainvaibhav62&layout=compact&theme=github_dark&border_color=30363d" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/0-profile-details.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/1-repos-per-language.svg" width="400" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/2-most-commit-language.svg" width="400" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/3-stats.svg" width="400" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/4-productive-time.svg" width="400" />
+</picture>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainvaibhav62&theme=github-dark-blue&border=30363d)](https://github.com/jainvaibhav62)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jainvaibhav62&theme=github-dark-blue&border=30363d)](https://github.com/jainvaibhav62)
 
 </div>
-
----
-
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jainvaibhav62&theme=github-compact&area=true&hide_border=true)](https://github.com/jainvaibhav62)
 
 ---
 

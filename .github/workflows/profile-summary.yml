@@ -1,0 +1,26 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "23 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate profile summary cards
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fez6/github-profile-summary-cards-example@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: jainvaibhav62
+          BRANCH_NAME: output
+          FOLDER: profile-summary
+          UTC_OFFSET: -5
