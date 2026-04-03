@@ -1,105 +1,106 @@
-# 👋 Hey, I'm VJ
+<div align="center">
 
-💻 Data Engineer | Building scalable data systems  
-☁️ AWS | Snowflake | Airflow | dbt  
-🚀 Turning messy data into reliable pipelines  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Vaibhav+%F0%9F%91%8B;Data+Engineer+%7C+ML+Enthusiast;Building+tools+for+AI+agents;Turning+data+into+decisions)](https://git.io/typing-svg)
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=jainvaibhav62&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/jainvaibhav62)
+[![LinkedIn](https://img.shields.io/badge/-jnvaibhav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jnvaibhav/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=github&logoColor=white)](https://jainvaibhav62.github.io)
+[![Email](https://img.shields.io/badge/-jainvaibhav62@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jainvaibhav62@gmail.com)
 
-## 🧠 About Me
-
-- 🏗 Currently building end-to-end data pipelines (S3 → Snowflake → Airflow)
-- ⚙️ Exploring scalable DAG frameworks & automation
-- 📊 Love designing clean data lineage & visualization systems
-- 🎯 Goal: Build production-grade data platforms at scale
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## About Me
 
-### 🛠 Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver)
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake)
+Data engineer based in Texas with a background in machine learning and statistical analysis. I build data pipelines at scale and lately I've been channeling that into developer tooling for AI agents.
 
-### ☁️ Cloud & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-
-### 🔄 Data Engineering
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark)
+- Working on [**claudeforge**](https://github.com/jainvaibhav62/claudeforge) — a CLI that scaffolds production-ready AI agent projects with one command
+- Experienced with end-to-end pipelines: ingestion, transformation, orchestration, and monitoring
+- Background in ML — fraud detection, time-series forecasting, NLP, computer vision
 
 ---
 
-## 🚀 Featured Projects
+## Currently Building
 
-### 🔹 Data Pipeline Framework
-> Automated DAG generation using config-driven architecture  
-- Dynamic Airflow DAG creation  
-- Modular pipeline layers (Raw → Ops → Con)  
-- Scalable and reusable design  
+<a href="https://github.com/jainvaibhav62/claudeforge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jainvaibhav62&repo=claudeforge&theme=github_dark&border_color=30363d" />
+</a>
 
----
-
-### 🔹 Data Lineage Visualization Tool
-> Interactive lineage similar to dbt  
-- Built with Streamlit + Graph visualization  
-- Real-time dependency tracking  
-- Clean UI for debugging pipelines  
+> **claudeforge** — Forge production-ready AI agent projects. Agents, slash commands, memory, CI/CD, and devcontainers in one command.
 
 ---
 
-### 🔹 End-to-End Cloud Pipeline
-> S3 → Snowflake → Airflow automation  
-- Event-driven ingestion  
-- Incremental loading  
-- Monitoring & alerting  
+## Tech Stack
+
+**Languages & Data**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=flat-square&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Data & ML**
+
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
-## 📊 GitHub Insights (Live)
+## Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+| Project | What it does | Tech |
+|---------|-------------|------|
+| [**claudeforge**](https://github.com/jainvaibhav62/claudeforge) | CLI to scaffold AI agent projects with agents, memory, CI/CD | JavaScript |
+| [**SF Crime Analysis**](https://github.com/jainvaibhav62/San-Francisco-Crime-Analysis-using-Pyspark) | Large-scale crime pattern analysis on SF open data | PySpark |
+| [**Credit Card Fraud Detection**](https://github.com/jainvaibhav62/Credit-Card-Fraud-Detection) | ML pipeline to identify fraudulent transactions | Python, Scikit-learn |
+| [**Stock Prediction (LSTM)**](https://github.com/jainvaibhav62/Stock-Market-Prediction-using-LSTM) | Time-series forecasting using deep learning | Python, Keras |
+| [**Facial Emotion Recognition**](https://github.com/jainvaibhav62/Facial-Emotion-Recognition) | CNN-based emotion classification from images | Python, TensorFlow |
+| [**Streamlit App**](https://github.com/jainvaibhav62/first_streamlit_app) | Interactive data app with Streamlit | Python |
 
 ---
 
-## 🐍 Contribution Snake (Auto-Generated)
+## GitHub Stats
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jainvaibhav62&show_icons=true&theme=github_dark&border_color=30363d&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jainvaibhav62&layout=compact&theme=github_dark&border_color=30363d" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jainvaibhav62&theme=github-dark-blue&border=30363d)](https://github.com/jainvaibhav62)
+
+</div>
 
 ---
 
-## ✍️ Latest Work (Auto Update)
+## Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jainvaibhav62&theme=github-compact&area=true&hide_border=true)](https://github.com/jainvaibhav62)
+
+---
+
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-💡 This section can be auto-updated using GitHub Actions (I’ll show you below)
-
 ---
 
-## 🌐 Connect With Me
+<div align="center">
 
-- 💼 LinkedIn: https://www.linkedin.com/in/jnvaibhav/
-- 📧 Email: jainvaibhav62@gmail.com
+*I don't just move data — I make it flow intelligently.*
 
----
-
-## ⚡ Fun Fact
-
-I don’t just move data… I make it **flow intelligently**.
-
----
+</div>
