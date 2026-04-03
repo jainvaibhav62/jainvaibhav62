@@ -71,28 +71,13 @@ Data engineer based in Texas with a background in machine learning and statistic
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/0-profile-details.svg" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jainvaibhav62&theme=github_dark" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/1-repos-per-language.svg" width="400" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/2-most-commit-language.svg" />
-  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/2-most-commit-language.svg" width="400" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jainvaibhav62&theme=github_dark" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jainvaibhav62&theme=github_dark" width="400" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/3-stats.svg" width="400" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/4-productive-time.svg" />
-  <img src="https://raw.githubusercontent.com/jainvaibhav62/jainvaibhav62/output/profile-summary/4-productive-time.svg" width="400" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jainvaibhav62&theme=github_dark" width="400" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jainvaibhav62&theme=github_dark&utcOffset=-5" width="400" />
 
 </div>
 
