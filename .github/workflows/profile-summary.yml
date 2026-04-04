@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fez6/github-profile-summary-cards-example@master
+      - uses: vn7n24fez6/github-profile-summary-cards@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
