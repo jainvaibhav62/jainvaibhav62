@@ -92,10 +92,10 @@ Data engineer based in Texas with a background in machine learning and statistic
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77566](https://github.com/apache/airflow/pull/77566) in [apache/airflow](https://github.com/apache/airflow)
-2. 💪 Opened PR [#8007](https://github.com/mem0ai/mem0/pull/8007) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
-3. 💪 Opened PR [#8006](https://github.com/mem0ai/mem0/pull/8006) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
-4. ❗ Opened issue [#8005](https://github.com/mem0ai/mem0/issues/8005) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
+1. 🗣 Commented on [#8005](https://github.com/mem0ai/mem0/issues/8005#issuecomment-7205307845) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
+2. 💪 Opened PR [#77566](https://github.com/apache/airflow/pull/77566) in [apache/airflow](https://github.com/apache/airflow)
+3. 💪 Opened PR [#8007](https://github.com/mem0ai/mem0/pull/8007) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
+4. 💪 Opened PR [#8006](https://github.com/mem0ai/mem0/pull/8006) in [mem0ai/mem0](https://github.com/mem0ai/mem0)
 <!--END_SECTION:activity-->
 
 ---
